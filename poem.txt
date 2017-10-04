@@ -5,3 +5,5 @@ yellow
 purple 
 green
 blue
+pink
+most of the colors of the rainbow
