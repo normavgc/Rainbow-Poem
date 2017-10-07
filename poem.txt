@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the unicorn
 red 
 orange
 yellow
@@ -7,3 +7,4 @@ purple
 blue
 pink
 most of the colors of the rainbow
+added the unicorn branch
